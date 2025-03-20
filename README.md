@@ -1,2 +1,2 @@
-# scripts
+# Scripts
 Bunch of useful scripts
