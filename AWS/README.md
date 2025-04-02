@@ -10,3 +10,9 @@ The script will only print those LB in accounts that don't have any ECS cluster
 
 ### Requirements
 - Have a .aws/config set up
+
+## eks_clusters_version.sh
+A script used to list all the eks clusters in the configurated profiles and its version
+
+### Requirements
+- Have .aws/config set up
